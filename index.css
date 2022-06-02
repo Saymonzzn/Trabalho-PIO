@@ -1,0 +1,92 @@
+@tharset "UTF-8";
+body{          
+    margin: auto;
+    min-width: 320px;
+    max-width: 1755px;
+    color: white;
+    background-image: linear-gradient(to right, #03045e, #0077b6, #00b4d8);
+    font-family: Arial, Helvetica, sans-serif
+    
+
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+img{
+    border: 5px solid #00b4d8;
+}
+
+li{
+    list-style-type: none;
+}
+
+#fundopreto{
+background-color: black;
+color:white;
+font-family:arial;
+}
+
+#img_redonda{
+    
+    border-radius: 50%;
+}
+
+#espaço{
+    justify-content: space-between;
+}
+
+.container{
+    padding: 0px 50px;
+}
+
+.hover :hover {
+    color: black
+}
+
+.espaço3{
+    justify-content: space-between;
+}
+
+
+
+.espaço{
+    padding: 0px 50px;
+    margin: 20px;
+    text-align: center;     
+    display: flex;
+    justify-content: center;
+}
+
+.espaço2{
+    padding: 0px 50px;
+    margin: 20px;
+    justify-content: center;
+    
+}
+
+.horizon{
+    min-width: 320px;
+    max-width: 1755px;
+    
+
+}
+
+.ring{
+    min-width: 320px;
+    max-width: 1755px;
+}
+
+
+.legion{
+    text-shadow: 3px 3px 3px black ;
+}
